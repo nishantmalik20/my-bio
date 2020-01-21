@@ -1,0 +1,65 @@
+body {
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+    ;
+    font-family: serif, cursive;
+    
+}
+
+.main-heading {
+    text-align: center;
+    background-color: black;
+    color: orange;
+}
+.text-image{
+    position: relative;
+}
+.banner{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+    
+}
+.abc{
+    position: relative;
+}
+.highlight {
+    background-color: yellow;
+    font-family: cursive;
+     
+}
+
+.highlight-one{
+    background-color: floralwhite;
+    font-family: cursive;
+     
+}
+
+.more{
+    background-color: springgreen;
+}
+
+.qualification{
+    background-color: tomato;
+}
+
+.name{
+    background-color: green;
+    color: yellow;
+}
+
+.address{
+    background-color: violet;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+
+
+
+/* for hex #ff
+/* highlight, undr title
+/* font-weight: normal;
+font-style
